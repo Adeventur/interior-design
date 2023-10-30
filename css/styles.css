@@ -32,12 +32,12 @@ nav .menu{
 }
 nav .menu a{
   width: 25%;
-  color: #fff;
+  color: brown;
   font-size: 22px;
   text-decoration: none;
 }
 section{
-  color: #fff;
+  color: brown;
   margin-top: 200px;
   text-align: center;
   font-weight: bold;
