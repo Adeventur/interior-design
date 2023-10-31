@@ -20,7 +20,7 @@ nav{
 }
 nav .logo{
 width: 25%;
-color: brown;
+color: white;
 font-size: 22px;
 font-weight: bold;
 padding: 40px;
@@ -32,12 +32,12 @@ nav .menu{
 }
 nav .menu a{
   width: 25%;
-  color: brown;
+  color: white;
   font-size: 22px;
   text-decoration: none;
 }
 section{
-  color: brown;
+  color: black;
   margin-top: 200px;
   text-align: center;
   font-weight: bold;
@@ -45,10 +45,14 @@ section{
 section h1{
   font-size: 50px;
   margin-top: 5px;
-  text-shadow: 3px 1px black;
+  text-shadow: 3px 1px white;
 }
 section h3{
   font-size: 20px;
   margin-top: 5px;
-  text-shadow: 3px 1px black;
+  text-shadow: 3px 1px white;
+}
+.column{
+  width: 300px;
+  float: left;
 }
