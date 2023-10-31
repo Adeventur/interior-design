@@ -6,9 +6,17 @@
 
 img{
   size: 100px;
-  height: 50px;
-  width: 50px;
-  align-items: center;
-  justify-content: space-between;
-  display: flex;
+  height: 150px;
+  width:200px;
+  margin: 5px;
+  padding: 5px;
+}
+
+h1{
+  color: blue;
+}
+
+html{
+  background-color: cornsilk;
+  
 }
